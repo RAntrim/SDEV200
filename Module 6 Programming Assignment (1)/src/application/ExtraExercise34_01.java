@@ -13,7 +13,7 @@ public class ExtraExercise34_01 extends Application
     // Utility class for obtaining a DB connection using JDBC.
     public static class DatabaseUtil
     {
-    	private static final String URL = "jdbc:mysql://localhost:3306/staff?useSSL=false&serverTimezone=UTC";
+    	private static final String URL = "jdbc:mysql://localhost:3306/staff";
         private static final String USER = "root";
         private static final String PASSWORD = "";
 
