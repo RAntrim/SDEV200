@@ -1,0 +1,1 @@
+I had work tonight. Please, let a couple minutes late pass. I know it's only a 10% penalty, but I'm already not academically performing well in this class.
